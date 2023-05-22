@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bxslider": "^4.2.14"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.4",
+    "postcss": "^8.4.23",
+    "postcss-loader": "^7.3.0",
+    "sass-loader": "^13.3.0",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
